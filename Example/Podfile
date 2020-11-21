@@ -1,0 +1,6 @@
+use_frameworks!
+target 'KIT_Tests' do
+  pod 'KIT', :path => '../'
+  
+  
+end
