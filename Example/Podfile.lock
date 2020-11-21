@@ -1,0 +1,16 @@
+PODS:
+  - KIT (0.1.0)
+
+DEPENDENCIES:
+  - KIT (from `../`)
+
+EXTERNAL SOURCES:
+  KIT:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KIT: e8b1f94ed57d926ea339874e8ba1949c94b6afcb
+
+PODFILE CHECKSUM: 63be59625b17aec460a95d994f4dda178cf7b93a
+
+COCOAPODS: 1.9.3

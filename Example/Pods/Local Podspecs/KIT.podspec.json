@@ -1,0 +1,22 @@
+{
+  "name": "KIT",
+  "version": "0.1.0",
+  "summary": "A short description of KIT.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hanzhifeng/KIT",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hanzhifeng": "hanzhifeng@kuaishou.com"
+  },
+  "source": {
+    "git": "https://github.com/hanzhifeng/KIT.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KIT/Classes/**/*"
+}

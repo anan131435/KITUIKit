@@ -1,0 +1,6 @@
+framework module KIT {
+  umbrella header "KIT-umbrella.h"
+
+  export *
+  module * { export * }
+}
